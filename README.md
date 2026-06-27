@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔗 ParseHubBot
+# 🔗 aidhxkbot
 
 **Telegram 多平台聚合解析机器人**
 
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-[**🤖 实例演示**](https://t.me/ParseHubot) ·
+[**🤖 实例演示**](https://t.me/aidhxkbot) ·
 [**📚 相关项目**](https://github.com/z-mio/ParseHub) ·
 [**🐛 问题反馈**](https://github.com/z-mio/Parse_Hub_Bot/issues)
 
@@ -27,12 +27,12 @@
 
 ---
 
-> 官方实例：[@ParseHubot](https://t.me/ParseHubot)
+> 官方实例：[@ParseHubot](https://t.me/aidhxkbot)
 
 ## ✨ 功能特性
 
 - 🎬 **多平台解析** — 抖音、B站、YouTube、小红书、Twitter 等 16+ 主流平台一站搞定
-- ⚡ **内联模式** — 在任意聊天窗口输入 `@BotUsername <链接>` 即可解析
+- ⚡ **内联模式** — 在任意聊天窗口输入 `@aidhxkbot <链接>` 即可解析
 - 🖼️ **Tg 兼容** — 自动转码、长图切割、大视频分段
 - 📦 **多种模式** — 在线预览, 原始文件, 打包下载
 - 🐳 **Docker 部署** — 开箱即用

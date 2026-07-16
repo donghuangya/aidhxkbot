@@ -5,13 +5,13 @@
 **Telegram 多平台聚合解析机器人**
 
 <p align="center">
-  <a href="https://github.com/z-mio/Parse_Hub_Bot/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/z-mio/Parse_Hub_Bot?style=flat-square&color=5D6D7E" alt="License">
+  <a href="https://github.com/z-mio/aidhxkbot/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/z-mio/aidhxkbot?style=flat-square&color=5D6D7E" alt="License">
   </a>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3.12+-blue?style=flat-square&logo=python&logoColor=white" alt="Python">
   </a>
-  <a href="https://t.me/ParseHubot">
+  <a href="https://t.me/aidhxkbot">
     <img src="https://img.shields.io/badge/Telegram-Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Bot">
   </a>
   <a href="https://github.com/astral-sh/uv">
@@ -20,14 +20,14 @@
 </p>
 
 [**🤖 实例演示**](https://t.me/aidhxkbot) ·
-[**📚 相关项目**](https://github.com/z-mio/ParseHub) ·
-[**🐛 问题反馈**](https://github.com/z-mio/Parse_Hub_Bot/issues)
+[**📚 相关项目**](https://github.com/z-miopguub) ·
+[**🐛 问题反馈**](https://github.com/z-mio/dbdh8/issues)
 
 </div>
 
 ---
 
-> 官方实例：[@ParseHubot](https://t.me/aidhxkbot)
+> 官方实例：[@pc66pc](https://t.me/aidhxkbot)
 
 ## ✨ 功能特性
 
@@ -66,7 +66,7 @@
 ### 🐳 Docker 运行 (推荐)
 
 ```bash
-mkdir parse_hub_bot && cd parse_hub_bot
+mkdir parse_hub_bot && cd aidhxkbot
 
 docker run -d \
   --restart=always \
@@ -76,7 +76,7 @@ docker run -d \
   -v ./logs:/app/logs \
   -v ./data:/app/data \
   --name parse-hub-bot \
-  ghcr.io/z-mio/parse_hub_bot:latest
+  ghcr.io/z-mio/aidhxkbot:latest
 ```
 
 ### 💻 源码运行
@@ -245,7 +245,7 @@ platforms:
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=z-mio/Parse_Hub_Bot&type=Date)](https://star-history.com/#z-mio/Parse_Hub_Bot&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=z-mio/aidhxkbot&type=Date)](https://star-history.com/#z-mio/aidhxkbot&Date)
 
 ## 🤝 参与贡献
 
